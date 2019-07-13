@@ -199,25 +199,23 @@
     <!--/services-->
     <section class="services">
         <div class="container">
-            <h3 class="tittle">Our Guiding Principles</h3>
+            <h3 class="tittle">Our Services</h3>
             <div class="row inner-sec-wthree">
                 <div class="col-lg-4 grid_info_main" data-aos="flip-left">
                     <div class="grid_info">
                         <div class="icon_info">
                             <span class="icon">
-								<i class="fas fa-laptop"></i>
-							</span>
-                            <h5>Basic & Industrial Chemicals</h5>
-                            <p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+              								<i class="fas fa-laptop"></i>
+              							</span>
+                            <h5>Laser Cutting</h5>
+                            <p> specialize in precise CNC Laser Cutting of a wide variety of materials. A laser works well for cutting: acrylic (Plexiglass), wood, paper, fabric, and more. Tight tolerances enable us to meet the toughest standards such as for military or medical applications.</p>
                         </div>
                     </div>
                     <div class="grid_info second">
                         <div class="icon_info">
-                            <span class="icon">
-								<i class="far fa-clone"></i>
-							</span>
-                            <h5>Construction & Engineering</h5>
-                            <p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+                            <span class="icon"><i class="far fa-clone"></i></span>
+                            <h5>Laser Engraving</h5>
+                            <p>Our lasers can engrave on virtually any material. Some examples are: Metal, Wood, Acrylic (Plexiglass), other plastics, laminates, marble, cultured marble, most stone, glass, or ceramics.</p>
                         </div>
                     </div>
                 </div>
@@ -230,8 +228,8 @@
                             <span class="icon">
 								<i class="fas fa-sitemap"></i>
 							</span>
-                            <h5>Passion</h5>
-                            <p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+                            <h5>Fabricating</h5>
+                            <p>Laser cut acrylic (Plexiglass) sheet can be heat bent or folded to your specs. Acrylic sheet parts can also be glued, milled or routed. We offer a full-service plastic fabrication department.</p>
                         </div>
                     </div>
                     <div class="grid_info second">
@@ -239,8 +237,8 @@
                             <span class="icon">
 								<i class="fab fa-android"></i>
 							</span>
-                            <h5>Basic & Industrial Chemicals</h5>
-                            <p>Lorem ipsum dolor sit amet,vehicula vel sapien et, feugiat sapien amet.</p>
+                            <h5>CNC Routing & Milling</h5>
+                            <p>Precision CNC Milling is up our alley at LCI. With Haas Automation on board, we provide fast setups and efficient turnaround time on large quantities of parts at a fair price.</p>
                         </div>
                     </div>
                 </div>
@@ -257,7 +255,7 @@
                 <div class="style-grid-2-text_info" data-aos="fade-right">
                     <h3>
                         Turning big ideas into great products.</h3>
-                    <p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias consequatur.sed quia non numquam eius modi tempora incidunt ut labore .Lorem ipsum dolor sit amet,vehicula vel sapien et.</p>
+                    <p>Large format prints can be mounted to expanded PVC (Sintra) sheet material and then laminated for protection. Mounted images can then be laser cut to just about any contour or die-line. Prints can also be mounted to the 2nd surface (backside) of clear acrylic for a rich protected look.</p>
                     <div class="bnr-button">
                         <button type="button" class="btn btn-primary play" data-toggle="modal" data-target="#exampleModal">
 							<i class="fas fa-play"></i>
@@ -273,12 +271,12 @@
             <div class="col-md-6 grid_sec_info">
                 <div class="style-grid-2-text_info" data-aos="fade-right">
                     <h3>
-                        Turning big ideas into great products.</h3>
-                    <p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias consequatur.sed quia non numquam eius modi tempora incidunt ut labore .Lorem ipsum dolor sit amet,vehicula vel sapien et</p>
+                        Get a quote</h3>
+                    <p>Need a Quote on a project? Either give us a call or e-mail us at the address listed below. We understand that our customers need quick turnaround times and our team responds quickly to quote requests to help you with a solution. From pencil sketch to cad file, we can work with just about any file format to make your request into a finished success.</p>
                     <div class="bnr-button">
-                        <button type="button" class="btn btn-primary play" data-toggle="modal" data-target="#exampleModal">
+                        <!-- <button type="button" class="btn btn-primary play" data-toggle="modal" data-target="#exampleModal">
 							<i class="fas fa-play"></i>
-						</button>
+						</button> -->
                     </div>
 
                 </div>
@@ -287,7 +285,7 @@
         </div>
     </section>
     <!--/Projects-->
-    <section class="services">
+    <!-- <section class="services">
         <div class="container">
             <h3 class="tittle">Our Latest Projects
             </h3>
@@ -403,7 +401,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!--//Projects-->
     <!--reviews_sec-->
     <section class="reviews_sec" id="testimonials">
@@ -419,21 +417,13 @@
                                     <div class="test_social_pos">
                                         <ul class="social_list1">
                                             <li>
-                                                <a href="#" class="facebook1">
-													<i class="fab fa-facebook-f"></i>
-
-												</a>
+                                                <a href="#" class="facebook1"><i class="fab fa-facebook-f"></i></a>
                                             </li>
                                             <li>
-                                                <a href="#" class="twitter2">
-													<i class="fab fa-twitter"></i>
-
-												</a>
+                                                <a href="#" class="twitter2"><i class="fab fa-twitter"></i></a>
                                             </li>
                                             <li>
-                                                <a href="#" class="dribble3">
-													<i class="fab fa-dribbble"></i>
-												</a>
+                                                <a href="#" class="dribble3"><i class="fab fa-dribbble"></i></a>
                                             </li>
                                         </ul>
                                     </div>

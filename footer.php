@@ -6,7 +6,7 @@
                     <h2>About Us</h2>
                 </div>
                 <div class="footer-text">
-                    <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed, convallis at tellus..</p>
+                    <p>Accurics Laser is proud to be engineered, designed and manufactured in the Pune. From our high-tech manufacturing facility located in Bhosari Pune, OUR laser machine delivers our fastest speeds, largest work area, and highest engraving quality.</p>
 
                 </div>
             </div>
@@ -17,19 +17,19 @@
                 <div class="footer-office-hour">
                     <ul>
                         <li class="hd">Address :</li>
-                        <li>No.27 - 5549436 street lorem ipsum, ipsum City, Country</li>
+                        <li>B 5, Opposite Philps India, MIDC, Bhosari, Pune - 411026</li>
 
                     </ul>
                     <ul>
-                        <li class="hd">Phone:+ 1 (234) 567 8901</li>
+                        <li class="hd">Phone:+91 9922910563</li>
                         <li class="hd">Email:
-                            <a href="mailto:info@example.com">info@example.com</a>
+                            <a href="mailto:accuricslaser@gmail.com">accuricslaser@gmail.com</a>
                         </li>
-                        <li class="hd">Fax: 1(234) 567 8901</li>
+                        <!-- <li class="hd">Fax: 1(234) 567 8901</li> -->
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
+            <!-- <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
                     <h3>Recent Works</h3>
                 </div>
@@ -94,7 +94,7 @@
         </button>
                 </form>
                 <div class="clearfix"></div>
-            </div>
+            </div> -->
 
         </div>
 
@@ -131,8 +131,7 @@
             </ul>
         </div>
         <div class="copyrightbottom" data-aos="fade-right">
-            <p>© 2018 Smelter. All Rights Reserved | Design by
-                <a href="http://w3layouts.com/">W3layouts</a>
+            <p>© 2018 Accurics. All Rights Reserved
             </p>
 
         </div>
