@@ -428,14 +428,14 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <h3>Gretchen
+                                <h3>Abhinav Kumar
                                     <span>Customer</span>
                                 </h3>
-                                <i>United States</i>
-                                <p>Maecenas interdum, metus vitae tincidunt porttitor, magna quam egestas sem, ac scelerisque nisl nibh vel lacus. Proin eget gravida odio. Donec ullamcorper est eu accumsan cursus.</p>
+                                <i>Ahmedabad</i>
+                                <p>I could not believe it can be done in such low prices and at such good quality. Excellent work from the team.</p>
                             </div>
                         </li>
-                        <li>
+                        <!-- <li>
                             <div class="testimonials_grid">
                                 <div class="testimonials_grid-inn">
                                     <img src="images/t2.jpg" alt=" " class="img-fluid" />
@@ -461,11 +461,11 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <h3>Esmeralda
+                                <h3>Abhinav Kumar
                                     <span>Customer</span>
                                 </h3>
-                                <i>United States</i>
-                                <p>Maecenas interdum, metus vitae tincidunt porttitor, magna quam egestas sem, ac scelerisque nisl nibh vel lacus. Proin eget gravida odio. Donec ullamcorper est eu accumsan cursus.</p>
+                                <i>Pune</i>
+                                <p>Best work. I could not believe it can be done in such low prices and at such good quality. Excellent work from the team.</p>
                             </div>
                         </li>
                         <li>
@@ -500,7 +500,7 @@
                                 <i>United States</i>
                                 <p>Maecenas interdum, metus vitae tincidunt porttitor, magna quam egestas sem, ac scelerisque nisl nibh vel lacus. Proin eget gravida odio. Donec ullamcorper est eu accumsan cursus.</p>
                             </div>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </section>
