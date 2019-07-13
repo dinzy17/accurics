@@ -119,7 +119,7 @@
                     </p>
                 </div>
             </div>
-            <div class="row inner-sec-wthree">
+            <!-- <div class="row inner-sec-wthree">
                 <div class="col-lg-4 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
                     <div class="bt-icon">
 
@@ -132,7 +132,6 @@
                         <a class="btn btn-secondary view" href="details.php" role="button">View details</a>
                     </p>
                 </div>
-                <!-- /.col-lg-4 -->
                 <div class="col-lg-4 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
                     <div class="bt-icon">
                         <span class="far fa-thumbs-up"></span>
@@ -144,7 +143,6 @@
                         <a class="btn btn-secondary view" href="details.php" role="button">View details</a>
                     </p>
                 </div>
-                <!-- /.col-lg-4 -->
                 <div class="col-lg-4 bottom-sub-grid text-center aos-init aos-animate" data-aos="zoom-in">
                     <div class="bt-icon">
                         <span class="fas fa-tv"></span>
@@ -156,8 +154,7 @@
                         <a class="btn btn-secondary view" href="details.php" role="button">View details</a>
                     </p>
                 </div>
-                <!-- /.col-lg-4 -->
-            </div>
+            </div> -->
         </div>
         <!-- /.row -->
     </section>
