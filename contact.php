@@ -1,20 +1,11 @@
-<!--
-	Author: W3layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
--->
-
-
 <!DOCTYPE html>
 <html>
 
 <head>
-    <title>Smelter Industrial Category Bootstrap responsive WebTemplate | Contact :: w3layouts</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <meta name="keywords" content="Smelter a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+  <title>Accurics Laser cutting | Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <meta name="keywords" content="cnc lasercutting services, lasercutting services, laser cutting, lasercutting jobwork in pune,lasercut in pune,lasercut box cutting, lasercut panel, laser cut acylic,lasercut aluminium, laser cut artwork, a laser cutting service, laser cutting service, trumpf laser cutting machine in pune" />
 
     <script>
         addEventListener("load", function() {
@@ -33,70 +24,26 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 
 <body>
-    <header>
-        <div class="header_top" id="home">
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="logo text-left">
-                    <h1>
-                        <a class="navbar-brand" href="index.html">
-                            <i class="fas fa-podcast"></i> Smelter</a>
-                    </h1>
-                </div>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                            <span class="navbar-toggler-icon">
-                              
-                            </span>
-
-                        </button>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav m-lg-auto text-right">
-                        <li class="nav-item">
-                            <a class="nav-link" href="index.html">Home
-                                        <span class="sr-only">(current)</span>
-                                    </a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="about.html">About</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a class="nav-link tooltip-blog" href="blog.html">Blog <span>New</span></a>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                      Dropdown
-                                       <i class="fas fa-angle-down"></i>
-                                    </a>
-                            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <a class="dropdown-item" href="project.html">Projects</a>
-                                <a class="dropdown-item" href="error.html" title="">404</a>
-
-
-                            </div>
-                        </li>
-                        <li class="nav-item active">
-                            <a class="nav-link" href="contact.html">Contact</a>
-                        </li>
-
-                    </ul>
-                    <form action="#" method="post" class="form-inline my-2 my-lg-0 search">
-                        <input class="form-control mr-sm-1" type="search" placeholder="" name="Search" required="">
-                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-                    </form>
-                </div>
-
-            </nav>
-        </div>
-    </header>
+    <?php
+      include_once("header.php")
+    ?>
     <!--//header-->
+    <script>
+        addEventListener("load", function() {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        }
+    </script>
     <div class="banner-inner">
     </div>
     <ol class="breadcrumb">
         <li class="breadcrumb-item">
             <a href="index.html">Home</a>
         </li>
-        <li class="breadcrumb-item active">Single Page</li>
+        <li class="breadcrumb-item active">Contact Us</li>
     </ol>
     <!--//banner-->
     <!--/Contact-->
@@ -107,7 +54,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="row inner-sec-wthree">
                 <div class="contact-map">
 
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100949.24429313939!2d-122.44206553967531!3d37.75102885910819!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80859a6d00690021%3A0x4a501367f076adff!2sSan+Francisco%2C+CA%2C+USA!5e0!3m2!1sen!2sin!4v1472190196783" class="map" style="border:0" allowfullscreen=""></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d945.2378962826194!2d73.83486182916887!3d18.62124727010762!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTjCsDM3JzE2LjUiTiA3M8KwNTAnMDcuNSJF!5e0!3m2!1sen!2sin!4v1563726350070!5m2!1sen!2sin" class="map" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
                 <div class="address row">
                     <div class="col-md-4 address-grid-inf-w3layouts" data-aos="zoom-out">
@@ -117,7 +64,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="address-right">
                                 <h6>Phone Number</h6>
-                                <p>+1 234 567 8901,+1 234 567 8901</p>
+                                <p>+91 9922910563<br>+91 9881298216</p>
 
                             </div>
 
@@ -131,7 +78,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             <div class="address-right">
                                 <h6>Email Address</h6>
                                 <p>Email :
-                                    <a href="mailto:example@email.com"> mail@example.com</a>
+                                    <a href="mailto:accuricslaser@gmail.com"> accuricslaser@gmail.com</a>
                                 </p>
                             </div>
 
@@ -144,7 +91,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                             </div>
                             <div class="address-right">
                                 <h6>Location</h6>
-                                <p>San Francisco California, USA
+                                <p>Bhosari, Pune
 
                                 </p>
                             </div>
@@ -173,192 +120,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
     <!--//Contact-->
     <!--footer-->
-    <footer>
-        <div class="container">
-            <div class="row footer-top-w3layouts">
-                <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
-                    <div class="footer-title">
-                        <h2>About Us</h2>
-                    </div>
-                    <div class="footer-text">
-                        <p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed, convallis at tellus..</p>
-
-                    </div>
-                </div>
-                <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
-                    <div class="footer-title">
-                        <h3>Contact Us</h3>
-                    </div>
-                    <div class="footer-office-hour">
-                        <ul>
-                            <li class="hd">Address :</li>
-                            <li>No.27 - 5549436 street lorem ipsum, ipsum City, Country</li>
-
-                        </ul>
-                        <ul>
-                            <li class="hd">Phone:+ 1 (234) 567 8901</li>
-                            <li class="hd">Email:
-                                <a href="mailto:info@example.com">info@example.com</a>
-                            </li>
-                            <li class="hd">Fax: 1(234) 567 8901</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
-                    <div class="footer-title">
-                        <h3>Recent Works</h3>
-                    </div>
-                    <div class="footer-list">
-                        <div class="flickr-grid">
-                            <a href="single.html">
-								<img src="images/g1.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g2.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g3.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g4.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g9.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g5.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="single.html">
-								<img src="images/g6.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g7.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="flickr-grid">
-                            <a href="#">
-								<img src="images/g8.jpg" class="img-fluid" alt=" ">
-							</a>
-                        </div>
-                        <div class="clearfix"></div>
-                    </div>
-                </div>
-                <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
-                    <div class="footer-title">
-                        <h3>Subscribe</h3>
-                    </div>
-                    <p>Vivamus magna justo, lacinia eget consectetur sed.</p>
-                    <form action="#" method="post" class="newsletter">
-                        <input class="email" type="email" placeholder="Your email..." required="">
-                        <button class="btn1">
-							<i class="far fa-envelope"></i>
-						</button>
-                    </form>
-                    <div class="clearfix"></div>
-                </div>
-
-            </div>
-
-        </div>
-    </footer>
-    <!---->
-    <div class="copyright">
-        <div class="container">
-            <div class="copyrighttop" data-aos="fade-left">
-                <ul>
-                    <li>
-                        <h4>Follow us on:</h4>
-                    </li>
-                    <li>
-                        <a class="facebook" href="#">
-							<i class="fab fa-facebook-f"></i>
-						</a>
-                    </li>
-                    <li>
-                        <a class="facebook" href="#">
-							<i class="fab fa-twitter"></i>
-						</a>
-                    </li>
-                    <li>
-                        <a class="facebook" href="#">
-							<i class="fab fa-google-plus-g"></i>
-						</a>
-                    </li>
-                    <li>
-                        <a class="facebook" href="#">
-							<i class="fab fa-pinterest-p"></i>
-						</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="copyrightbottom" data-aos="fade-right">
-                <p>© 2018 Smelter. All Rights Reserved | Design by
-                    <a href="http://w3layouts.com/">W3layouts</a>
-                </p>
-
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-    <!-- js -->
-    <script src="js/jquery-2.2.3.min.js"></script>
-    <!-- //js -->
-    <!-- /js files -->
-	<link href='css/aos.css' rel='stylesheet prefetch' type="text/css" media="all" />
-	<link href='css/aos-animation.css' rel='stylesheet prefetch' type="text/css" media="all" />
-	<script src='js/aos.js'></script>
-	<script src="js/aosindex.js"></script>
-	<!-- //js files -->
-    <!-- start-smoth-scrolling -->
-    <script src="js/move-top.js"></script>
-    <script src="js/easing.js"></script>
-    <script>
-        jQuery(document).ready(function($) {
-            $(".scroll").click(function(event) {
-                event.preventDefault();
-                $('html,body').animate({
-                    scrollTop: $(this.hash).offset().top
-                }, 900);
-            });
-        });
-    </script>
-    <!-- start-smoth-scrolling -->
-
-    <script>
-        $(document).ready(function() {
-            /*
-            						var defaults = {
-            				  			containerID: 'toTop', // fading element id
-            							containerHoverID: 'toTopHover', // fading element hover id
-            							scrollSpeed: 1200,
-            							easingType: 'linear' 
-            				 		};
-            						*/
-
-            $().UItoTop({
-                easingType: 'easeOutQuart'
-            });
-
-        });
-    </script>
-    <!-- /js -->
-    <script src="js/bootstrap.js"></script>
-    <!-- //js -->
-
+    <?php include_once("footer.php");
+    ?>
 </body>
 
 </html>

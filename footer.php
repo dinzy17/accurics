@@ -1,27 +1,28 @@
 <footer>
     <div class="container">
         <div class="row footer-top-w3layouts">
-            <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
+            <div class="col-lg-8 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
                     <h2>About Us</h2>
                 </div>
                 <div class="footer-text">
-                    <p>Accurics Laser is proud to be engineered, designed and manufactured in the Pune. From our high-tech manufacturing facility located in Bhosari Pune, OUR laser machine delivers our fastest speeds, largest work area, and highest engraving quality.</p>
+                    <p>Accurics Laser is proud especially to cater the engineering and infrastructure industries to be engineered, designed and manufactured in the Pune. From our high-tech manufacturing facility located in Bhosari Pune, OUR laser machine delivers our fastest speeds, largest work area, and highest engraving quality. Since 2019, Accurics laser has performed Fiber laser cutting and CNC Bending in MIDC Bhosari, Pune.</p>
 
                 </div>
             </div>
-            <div class="col-lg-3 footer-grid-w3ls" data-aos="zoom-in">
+            <div class="col-lg-4 footer-grid-w3ls" data-aos="zoom-in">
                 <div class="footer-title">
                     <h3>Contact Us</h3>
                 </div>
                 <div class="footer-office-hour">
                     <ul>
-                        <li class="hd">Address :</li>
-                        <li>B 5, Opposite Philps India, MIDC, Bhosari, Pune - 411026</li>
+                        <li class="hd">Address:</li>
+                        <li>B 5, Opposite Philips India, MIDC, Bhosari, Pune - 411026</li>
 
                     </ul>
                     <ul>
-                        <li class="hd">Phone:+91 9922910563</li>
+                        <li class="hd">Phone:</li>
+                        <li> +91 9922910563<br> +91 9881298216</li>
                         <li class="hd">Email:
                             <a href="mailto:accuricslaser@gmail.com">accuricslaser@gmail.com</a>
                         </li>

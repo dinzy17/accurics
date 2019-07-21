@@ -31,14 +31,14 @@
                                    <i class="fas fa-angle-down"></i>
                                 </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="laser-cutting.php">Laser Cutting</a>
-                            <a class="dropdown-item" href="fabrication.php" title="">Fabrication</a>
+                            <a class="dropdown-item" href="laser-cutting.php">Fiber Laser Cutting</a>
+                            <a class="dropdown-item" href="cnc-bending.php" title="">CNC Bending</a>
 
 
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link tooltip-blog" href="features.php">Features <!--<span>New</span>--> </a>
+                        <a class="nav-link tooltip-blog" href="gallery.php">Gallery <!--<span>New</span>--> </a>
                     </li>
 
                     <li class="nav-item">

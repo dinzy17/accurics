@@ -112,10 +112,17 @@
                 </div>
                 <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">
                     <p>
-                      Accurics Laser is proud to be engineered, designed and manufactured in the Pune.
-                      From our high-tech manufacturing facility located in Bhosari Pune, OUR laser machine delivers our fastest speeds, largest work area,
-                      and highest engraving quality.
-                      Since 2018, Accurics laser has performed laser cutting, plastic fabricating, UV flatbed printing, CNC routing and milling, mounting and laminating, and laser engraving in Milwaukee for the entire United States. With over 13 premier laser cutting and engraving machines at our disposal, nothing will stop us from completing your project in a timely manner. When you work with a premier laser cutting company like us, you’ll get efficiency, accuracy, and consistency. We work with businesses that either require a single custom laser cut acrylic item or an entire assembly line of products. Don’t turn down this opportunity to work with our Milwaukee laser cutting company—see what real quality results look like.
+                      Accurics Laser is proud especially to cater the engineering and infrastructure
+                      industries to be engineered, designed and manufactured in the Pune. From our
+                      high-tech manufacturing facility located in Bhosari Pune, OUR laser machine
+                      delivers our fastest speeds, largest work area, and highest engraving quality.
+                      Since 2019, Accurics laser has performed Fiber laser cutting and CNC Bending
+                      in MIDC Bhosari, Pune. Accurics Laser is manufacturing unit specializing in
+                      sheet metal. Here at Accurics Laser nothing will stop us from completing your
+                      project in a timely manner. When you work with a premier laser cutting company
+                      like us, you’ll get efficiency, accuracy, and consistency. Don’t turn down this
+                      opportunity to work with our Accurics Laser Company—see what real quality
+                      results look like.
                     </p>
                 </div>
             </div>
@@ -204,23 +211,21 @@
                             <span class="icon">
               								<i class="fas fa-laptop"></i>
               							</span>
-                            <h5>Laser Cutting</h5>
-                            <p> specialize in precise CNC Laser Cutting of a wide variety of materials. A laser works well for cutting: acrylic (Plexiglass), wood, paper, fabric, and more. Tight tolerances enable us to meet the toughest standards such as for military or medical applications.</p>
+                            <h5>Fiber Laser Cutting</h5>
+                            <p> Accurics Laser specialize in precise Laser Cutting of a wide variety of Metal
+                                Sheets. A laser works well for cutting: Mild Steel, Aluminium, Stainless Steel,
+                                and more. Tight tolerances enable us to meet the toughest standards.
+                            </p>
+                            <a  href="laser-cutting.php">Read more ...</a>
                         </div>
                     </div>
-                    <div class="grid_info second">
-                        <div class="icon_info">
-                            <span class="icon"><i class="far fa-clone"></i></span>
-                            <h5>Laser Engraving</h5>
-                            <p>Our lasers can engrave on virtually any material. Some examples are: Metal, Wood, Acrylic (Plexiglass), other plastics, laminates, marble, cultured marble, most stone, glass, or ceramics.</p>
-                        </div>
-                    </div>
+
                 </div>
                 <div class="col-lg-4 grid_info_main mid" data-aos="flip-down">
                     <img src="images/ab.jpg" class="img-fluid" alt=" ">
                 </div>
                 <div class="col-lg-4 grid_info_main" data-aos="flip-right">
-                    <div class="grid_info">
+                    <!-- <div class="grid_info">
                         <div class="icon_info">
                             <span class="icon">
 								<i class="fas fa-sitemap"></i>
@@ -236,6 +241,16 @@
 							</span>
                             <h5>CNC Routing & Milling</h5>
                             <p>Precision CNC Milling is up our alley at LCI. With Haas Automation on board, we provide fast setups and efficient turnaround time on large quantities of parts at a fair price.</p>
+                        </div>
+                    </div> -->
+                    <div class="grid_info second">
+                        <div class="icon_info">
+                            <span class="icon"><i class="far fa-clone"></i></span>
+                            <h5>CNC Bending</h5>
+                            <p>In addition to the Fiber Laser cutting machine, Accurics Laser has latest CNC Bending Machine with
+                                high level of precision and accuracy. Capacity of CNC Bending Machine is 160 ton.
+                            </p>
+                            <a  href="cnc-bending.php">Read more ...</a>
                         </div>
                     </div>
                 </div>
@@ -401,7 +416,7 @@
     </section> -->
     <!--//Projects-->
     <!--reviews_sec-->
-    <section class="reviews_sec" id="testimonials">
+    <section class="reviews_sec pad-100" id="testimonials">
         <h3 class="tittle cen">Testimonial</h3>
         <div class="inner-sec-wthree">
             <section class="slider">

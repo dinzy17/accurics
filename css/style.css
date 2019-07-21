@@ -428,18 +428,18 @@ h3.tittle.cen {
 /*--/banner-bottom --*/
 
 .banner-bottom {
-    padding: 6em 0;
+    padding: 2em 0;
 }
 
 .bt-bottom-info h5 {
     font-size: 2em;
     line-height: 1.5em;
     color: #ff6a00;
-    margin-bottom: 4em;
+    margin-bottom: 1em;
 }
 
 .inner-sec-wthree {
-    margin-top: 4em;
+    margin-top: 2em;
 }
 
 .bottom-sub-grid {
@@ -886,7 +886,7 @@ p.ab-para {
 }
 
 .banner-bottom.gallery {
-    padding: 5em 0;
+    padding: 2em 0;
 }
 
 p.quia {
@@ -1218,8 +1218,9 @@ a.facebook:hover {
     }
     .carousel-caption h2,
     .carousel-caption h3 {
-        font-size: 3.5em;
+        font-size: 40px;
         letter-spacing: 2px;
+        font-weight: bold;
     }
     .style-image-2,
     .style-image-2.second {
@@ -1228,7 +1229,7 @@ a.facebook:hover {
     .banner-bottom,
     .services,
     .reviews_sec {
-        padding: 5em 0;
+        padding: 2em 0;
     }
     footer {
         padding: 4em 0;
@@ -1363,7 +1364,7 @@ a.facebook:hover {
     .banner-bottom,
     .services,
     .reviews_sec {
-        padding: 4em 0;
+        padding: 2em 0;
     }
     .carousel-caption h2,
     .carousel-caption h3 {
@@ -1371,7 +1372,7 @@ a.facebook:hover {
         letter-spacing: 2px;
     }
     .inner-sec-wthree {
-        margin-top: 2.5em;
+        margin-top: 2em;
     }
     .address-right h6 {
         font-size: 1.2em;
@@ -1560,4 +1561,19 @@ a.facebook:hover {
 .logo {
   width: 168px;
 
+}
+@media(max-width: 676px) {
+  .logo {
+      width: 100px;
+  }
+}
+.table-container {
+  margin-top: 40px;
+}
+.table-container-inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+.pad-100 {
+  margin-top: 100px;
 }
