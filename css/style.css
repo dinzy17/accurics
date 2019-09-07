@@ -1594,7 +1594,7 @@ h5.theme-h5 {
 .slbWrapOuter {
   overflow: hidden !important;
 }
-.custom-padding-grid {
+.custom-padding-grid .icon_info {
     padding: 50px 2em;
 }
 @media(max-width: 999px) {
