@@ -1577,3 +1577,19 @@ a.facebook:hover {
 .pad-100 {
   margin-top: 100px;
 }
+
+.indent-p-inside p{
+    padding-bottom: 25px;
+}
+section.services {
+    background: #cae4fb;
+}
+h5.theme-h5 {
+  font-size: 2em;
+  line-height: 1.5em;
+  color: #ff6a00;
+  margin-bottom: 1em;
+}
+.slbWrapOuter {
+  overflow: hidden !important;
+}

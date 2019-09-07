@@ -31,7 +31,7 @@
                                    <i class="fas fa-angle-down"></i>
                                 </a>
                         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="laser-cutting.php">Fiber Laser Cutting</a>
+                            <a class="dropdown-item" href="laser-cutting.php">Laser Cutting</a>
                             <a class="dropdown-item" href="cnc-bending.php" title="">CNC Bending</a>
 
 

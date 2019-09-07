@@ -106,23 +106,21 @@
             <!-- Three columns of text below the carousel -->
             <div class="row inner-sec-wthree">
 
-                <div class="col-lg-5 bt-bottom-info" data-aos="fade-right">
+                <div class="col-lg-4 bt-bottom-info" data-aos="fade-right">
                     <h5>Welcome to Accurics</h5>
 
                 </div>
-                <div class="col-lg-7 bt-bottom-info" data-aos="fade-left">
+                <div class="col-lg-8 bt-bottom-info indent-p-inside" data-aos="fade-left">
                     <p>
-                      Accurics Laser is proud especially to cater the engineering and infrastructure
-                      industries to be engineered, designed and manufactured in the Pune. From our
-                      high-tech manufacturing facility located in Bhosari Pune, OUR laser machine
-                      delivers our fastest speeds, largest work area, and highest engraving quality.
-                      Since 2019, Accurics laser has performed Fiber laser cutting and CNC Bending
-                      in MIDC Bhosari, Pune. Accurics Laser is manufacturing unit specializing in
-                      sheet metal. Here at Accurics Laser nothing will stop us from completing your
-                      project in a timely manner. When you work with a premier laser cutting company
-                      like us, you’ll get efficiency, accuracy, and consistency. Don’t turn down this
-                      opportunity to work with our Accurics Laser Company—see what real quality
-                      results look like.
+                      Founded in 2019, ACCURICS LASERS. We offers precision and productive laser cutting resources
+                      that delivers high quality products. We are committed to providing world class customer service
+                      and solutions in the field of fully integrated bespoke metal work and precision sheet metal
+                      fabrication.
+                    </p>
+                    <p>
+                      Our highly skilled workforces have over 20 years’ experience in metal fabrication. With on-site
+                      facilities for TIG and MIG welding in both stainless steel & aluminum, a CNC Fabrication shop,
+                      we are able to offer a comprehensive service to all our customers.
                     </p>
                 </div>
             </div>
@@ -167,7 +165,7 @@
     </section>
     <!---->
     <!-- /stats -->
-    <section class="stats_test container-fluid">
+    <!-- <section class="stats_test container-fluid">
 
         <div class="row inner_stat">
             <div class="col-lg-6 stats-left-info">
@@ -198,7 +196,7 @@
 
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- //stats -->
     <!--/services-->
     <section class="services">
@@ -416,7 +414,7 @@
     </section> -->
     <!--//Projects-->
     <!--reviews_sec-->
-    <section class="reviews_sec pad-100" id="testimonials">
+    <!-- <section class="reviews_sec pad-100" id="testimonials">
         <h3 class="tittle cen">Testimonial</h3>
         <div class="inner-sec-wthree">
             <section class="slider">
@@ -447,77 +445,12 @@
                                 <p>I could not believe it can be done in such low prices and at such good quality. Excellent work from the team.</p>
                             </div>
                         </li>
-                        <!-- <li>
-                            <div class="testimonials_grid">
-                                <div class="testimonials_grid-inn">
-                                    <img src="images/t2.jpg" alt=" " class="img-fluid" />
-                                    <div class="test_social_pos">
-                                        <ul class="social_list1">
-                                            <li>
-                                                <a href="#" class="facebook1">
-													<i class="fab fa-facebook-f"></i>
 
-												</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="twitter2">
-													<i class="fab fa-twitter"></i>
-
-												</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="dribble3">
-													<i class="fab fa-dribbble"></i>
-												</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <h3>Abhinav Kumar
-                                    <span>Customer</span>
-                                </h3>
-                                <i>Pune</i>
-                                <p>Best work. I could not believe it can be done in such low prices and at such good quality. Excellent work from the team.</p>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="testimonials_grid">
-                                <div class="testimonials_grid-inn">
-                                    <img src="images/t1.jpg" alt=" " class="img-fluid" />
-                                    <div class="test_social_pos">
-                                        <ul class="social_list1">
-                                            <li>
-                                                <a href="#" class="facebook1">
-													<i class="fab fa-facebook-f"></i>
-
-												</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="twitter2">
-													<i class="fab fa-twitter"></i>
-
-												</a>
-                                            </li>
-                                            <li>
-                                                <a href="#" class="dribble3">
-													<i class="fab fa-dribbble"></i>
-												</a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <h3>Anamaria
-                                    <span>Customer</span>
-                                </h3>
-                                <i>United States</i>
-                                <p>Maecenas interdum, metus vitae tincidunt porttitor, magna quam egestas sem, ac scelerisque nisl nibh vel lacus. Proin eget gravida odio. Donec ullamcorper est eu accumsan cursus.</p>
-                            </div>
-                        </li> -->
                     </ul>
                 </div>
             </section>
         </div>
-    </section>
+    </section> -->
     <!---->
     <!--footer-->
     <?php include_once("footer.php");
