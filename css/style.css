@@ -135,10 +135,11 @@ li.nav-item {
 /*---*/
 
 .navbar {
-    padding: 2em 2em;
+    padding: 12px 20px;
     position: absolute;
     z-index: 9;
     width: 100%;
+    background: rgba(255,255,0, 0.2);
 }
 
 .dropdown-toggle::after {
@@ -1592,4 +1593,18 @@ h5.theme-h5 {
 }
 .slbWrapOuter {
   overflow: hidden !important;
+}
+.custom-padding-grid {
+    padding: 50px 2em;
+}
+@media(max-width: 999px) {
+  .logo {
+    position: relative !important;
+  }
+}
+@media(min-width: 1000px) {
+  .logo {
+    position: absolute !important;
+    top: 10px;
+  }
 }

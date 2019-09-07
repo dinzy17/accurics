@@ -210,9 +210,11 @@
               								<i class="fas fa-laptop"></i>
               							</span>
                             <h5>Fiber Laser Cutting</h5>
-                            <p> Accurics Laser specialize in precise Laser Cutting of a wide variety of Metal
-                                Sheets. A laser works well for cutting: Mild Steel, Aluminium, Stainless Steel,
-                                and more. Tight tolerances enable us to meet the toughest standards.
+                            <p> Laser Cutting is the most accurate process for fiddle as soon as cuts concerning coarsely
+                               any material. Laser bitter is the use of a high-powered laser to clip materials to precise
+                                specifications set in the controlling software of the laser spiteful machines.
+                                The digital settings are converted by the software and administered by the laser for
+                                tidy and exact cuts.
                             </p>
                             <a  href="laser-cutting.php">Read more ...</a>
                         </div>
@@ -241,12 +243,15 @@
                             <p>Precision CNC Milling is up our alley at LCI. With Haas Automation on board, we provide fast setups and efficient turnaround time on large quantities of parts at a fair price.</p>
                         </div>
                     </div> -->
-                    <div class="grid_info second">
+                    <div class="custom-padding-grid">
                         <div class="icon_info">
                             <span class="icon"><i class="far fa-clone"></i></span>
                             <h5>CNC Bending</h5>
-                            <p>In addition to the Fiber Laser cutting machine, Accurics Laser has latest CNC Bending Machine with
-                                high level of precision and accuracy. Capacity of CNC Bending Machine is 160 ton.
+                            <p> Computer Numerical Control (CNC) bending machines are refined tube benders that
+                                guarantee a high level of productivity and repeatability. These machines fabricate high
+                                environment bent tubes that can be used for various classified ad applications employed
+                                in the automotive, chemical, and furniture industries, as ably as for ship building,
+                                railways, and new same industries.
                             </p>
                             <a  href="cnc-bending.php">Read more ...</a>
                         </div>
